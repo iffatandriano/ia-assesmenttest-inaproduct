@@ -15,7 +15,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
     <Container>
       <Head>
         <title>IA Exercise - Inaproduct</title>
-        <meta name="description" content="Attachment test privy" />
+        <meta name="description" content="Attachment test inaproduct" />
       </Head>
       <HeaderContainer>
         <Link href="/">
